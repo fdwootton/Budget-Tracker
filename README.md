@@ -3,9 +3,9 @@
   ## **Description**
   This application allows users to track their expenses by adding and subtracting their funds. As a PWA, saved data is accessible when offline.
 
-  Click here to visit the deployed application on Heroku: [**Budget-Tracker**](https://secure-island-57696.herokuapp.com/)
+  Click here to visit the deployed application on Heroku: [**Budget-Tracker**](https://frozen-wave-08455.herokuapp.com/)
 
-  ![Workout-Tracker](./public/fitness-tracker-screenshot.png)
+  ![Workout-Tracker](./public/budget-screenshot.png)
 
   ## **License**
   ![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br/>
